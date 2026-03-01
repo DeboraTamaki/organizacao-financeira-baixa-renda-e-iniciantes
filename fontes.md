@@ -8,4 +8,8 @@ https://educapes.capes.gov.br/bitstream/capes/430564/2/Apostila%20B%C3%A1sico%20
 
 https://www.financascomella.com/wp-content/uploads/2019/12/EBOOK-Guia-de-Investimento-para-Iniciantes-1.pdf
 
-https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+Finanças Pessoais para Iniciantes.pdf
+Organizadores:
+Natallya de Almeida Levino e 
+Anderson Moreira A.dos Santos
+Universidade Federal de Alagoas - 2009
