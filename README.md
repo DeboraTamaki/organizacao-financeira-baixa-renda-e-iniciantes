@@ -9,3 +9,6 @@ Ao longo do estudo, foram analisados materiais institucionais, formuladas pergun
 O resultado é um miniguia acessível, estruturado e aplicável, contendo conceitos essenciais, glossário financeiro, prompts reutilizáveis para revisões futuras e perguntas e respostas.
 
 Este repositório demonstra não apenas domínio de ferramentas de IA, mas também pensamento crítico, autonomia de estudo e organização de informação — competências essenciais no cenário atual de aprendizagem digital.
+
+Projeto desenvolvido por Débora Tamaki  
+Como aplicação ao DESAFIO DO BOOTCAMP Bradesco - GenAI & Dados 
