@@ -1,29 +1,11 @@
-Projeto: Organização Financeira para Baixa Renda e Iniciantes
+💰 Organização Financeira para Baixa Renda e Iniciantes
 
-Este projeto foi desenvolvido como parte de um desafio de aprendizagem utilizando o NotebookLM.
+Este projeto, realizado com o auxílio do NotebookLM, apresenta um guia prático de educação financeira voltado para pessoas com renda limitada que desejam construir estabilidade e iniciar investimentos com segurança.
 
-🎯 Objetivo:
+A proposta combina curadoria de fontes confiáveis, uso de inteligência artificial para aprendizagem ativa e organização do conhecimento em formato reutilizável.
 
-Explorar conceitos básicos de organização financeira, reserva de emergência e investimentos acessíveis para pessoas com baixa renda.
+Ao longo do estudo, foram analisados materiais institucionais, formuladas perguntas estratégicas e testadas variações de prompts para compreender como a IA pode apoiar decisões financeiras reais.
 
-📚 Fontes utilizadas:
+O resultado é um miniguia acessível, estruturado e aplicável, contendo conceitos essenciais, glossário financeiro, prompts reutilizáveis para revisões futuras e perguntas e respostas.
 
-Cartilha do Banco Central
-Cartilha da Caixa Econômica Federal
-Apostila Educapes
-E-book do site www.financascomella.com
-Repositório Universidade Federal de Alagoas
-
-🤖 Uso da IA:
-
-Foram elaboradas perguntas estratégicas, testadas variações de prompts e registradas respostas com base nas fontes.
-
-📖 Resultado:
-
-O projeto gerou:
-
-Miniguia de estudo
-Glossário financeiro
-Conjunto de prompts reutilizáveis
-Perguntas e Respostas
-
+Este repositório demonstra não apenas domínio de ferramentas de IA, mas também pensamento crítico, autonomia de estudo e organização de informação — competências essenciais no cenário atual de aprendizagem digital.
