@@ -1,3 +1,5 @@
+![Capa do Projeto](capa.png)
+
 💰 Organização Financeira para Baixa Renda e Iniciantes
 
 Este projeto, realizado com o auxílio do NotebookLM, apresenta um guia prático de educação financeira voltado para pessoas com renda limitada que desejam construir estabilidade e iniciar investimentos com segurança.
@@ -12,3 +14,4 @@ Este repositório demonstra não apenas domínio de ferramentas de IA, mas tamb�
 
 Projeto desenvolvido por Débora Tamaki  
 Como aplicação ao DESAFIO DO BOOTCAMP Bradesco - GenAI & Dados 
+
