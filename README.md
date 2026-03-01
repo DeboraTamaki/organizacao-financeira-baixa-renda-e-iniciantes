@@ -12,7 +12,7 @@ Cartilha do Banco Central
 Cartilha da Caixa Econômica Federal
 Apostila Educapes
 E-book do site www.financascomella.com
-Trabalho Acadêmico Universidade Federal de Alagoas
+Repositório Universidade Federal de Alagoas
 
 🤖 Uso da IA:
 
@@ -26,3 +26,4 @@ Miniguia de estudo
 Glossário financeiro
 Conjunto de prompts reutilizáveis
 Perguntas e Respostas
+
