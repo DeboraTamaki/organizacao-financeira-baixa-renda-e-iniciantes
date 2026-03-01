@@ -8,8 +8,5 @@ https://educapes.capes.gov.br/bitstream/capes/430564/2/Apostila%20B%C3%A1sico%20
 
 https://www.financascomella.com/wp-content/uploads/2019/12/EBOOK-Guia-de-Investimento-para-Iniciantes-1.pdf
 
-Finanças Pessoais para Iniciantes.pdf
-Organizadores:
-Natallya de Almeida Levino e 
-Anderson Moreira A.dos Santos
-Universidade Federal de Alagoas - 2009
+https://www.repositorio.ufal.br/bitstream/riufal/7121/1/Finan%C3%A7as%20pessoais%20para%20iniciantes.pdf
+
